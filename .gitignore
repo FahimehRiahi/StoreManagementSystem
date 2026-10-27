@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# Build output
+/build/
+/dist/
+
+# NetBeans private settings
+/nbproject/private/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
